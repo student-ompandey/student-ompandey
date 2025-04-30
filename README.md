@@ -5,11 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=student-ompandey&label=Profile%20views&color=0e75b6&style=flat" alt="student-ompandey" /> </p>
 
-- 🌱 I’m currently learning **Backend**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/me/](https://www.linkedin.com/in/me/)
-
-- 📫 How to reach me **ompandey628782@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
