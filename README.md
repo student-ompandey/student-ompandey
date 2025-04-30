@@ -1,8 +1,9 @@
 <div align="center" style="background-color: black; padding: 20px; border-radius: 15px; color: white; font-family: Arial;">
 
-  <h1>Hi 👋, I'm <span style="color: #00ffff;">Om Pandey</span></h1>
-  <h3>A passionate Software Engineer from India</h3>
+  <!-- Header with Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Om+Pandey;Software+Engineer;From+India" alt="Typing Header" style="margin-bottom: 20px;"/> <br>
 
+  <!-- Coding GIF -->
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="300" style="border-radius: 10px; background-color: black;" />
 
   <br><br>
@@ -20,15 +21,13 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="30" width="30" alt="CodeChef" style="margin: 0 10px; background-color: white; border-radius: 6px;"/>
   </a>
 
-  <a href="[https://www.geeksforgeeks.org/user/your-gfg-username/](https://www.geeksforgeeks.org/user/ompandeyv9aa/?_gl=1*e42y42*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwlMfABhCWARIsADGXdy-I625JpdXw3Y-oiLfU9FbLyME3a65nI4ajO5NxFKEQfrv8JHS0jQUaApuxEALw_wcB&gbraid=0AAAAAC9yBkAoXlWJT5TtSRmbazamTB-Kd)" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/ompandeyv9aa/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" width="30" alt="GFG" style="margin: 0 10px;" />
   </a>
 
-<a href="[https://leetcode.com/YOUR_USERNAME/](https://leetcode.com/u/ompandey_2008/)" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" />
-</a>
-
-
+  <a href="https://leetcode.com/u/ompandey_2008/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" />
+  </a>
 
   <a href="mailto:ompandey628782@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="30" width="30" alt="Gmail" style="margin: 0 10px;" />
@@ -53,9 +52,23 @@
   <hr style="border-color: #333;">
 
   <h3>GitHub Stats</h3>
+  
+  <!-- WORKING GitHub Streak Stats -->
+
+  <br><br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=student-ompandey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=student-ompandey&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=student-ompandey&theme=tokyonight" alt="GitHub Streak"/>
+
+  <img 
+ src="https://git-hub-streak-stats.vercel.app/?user=student-ompandey&theme=tokyonight&hide_border=true" alt="GitHub Streak"
+  style="max-width: 420px; width: 100%; border-radius: 10px; box-shadow: 0 0 10px #00ffff;" 
+/>
+  
+  <!-- Activity Graph -->
+  <h2>📈 Coding Activity</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=student-ompandey&theme=github-dark&hide_border=true&area=true&height=300" alt="Activity Graph" style="width: 100%; max-width: 800px;"/>
+
 </div>
