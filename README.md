@@ -1,7 +1,7 @@
 <div align="center" style="background-color: black; padding: 20px; border-radius: 15px; color: white; font-family: Arial;">
 
   <!-- Header with Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Om+Pandey;Software+Engineer;From+India" alt="Typing Header" style="margin-bottom: 20px;"/> <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Om+Pandey;Web+Developer;From+India" alt="Typing Header" style="margin-bottom: 20px;"/> <br>
 
   <!-- Coding GIF -->
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="300" style="border-radius: 10px; background-color: black;" />
