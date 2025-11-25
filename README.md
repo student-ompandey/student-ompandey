@@ -1,74 +1,99 @@
-<div align="center" style="background-color: black; padding: 20px; border-radius: 15px; color: white; font-family: Arial;">
+<div align="center">
 
-  <!-- Header with Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Om+Pandey;Web+Developer;From+India" alt="Typing Header" style="margin-bottom: 20px;"/> <br>
+# 🧑‍💻 Om Pandey | Full Stack MERN Developer
 
-  <!-- Coding GIF -->
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="300" style="border-radius: 10px; background-color: black;" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Competitive+Programmer;Building+Modern+Web+Solutions)](https://git.io/typing-svg)
 
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=student-ompandey&label=Profile%20views&color=00ffff&style=flat" alt="profile views"/>
+<br>
 
-  <hr style="border-color: #333;">
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="350"/>
 
-  <h3>Connect with me:</h3>
+<br>
 
-  <a href="www.linkedin.com/in/om-pandey-041717310" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" style="margin: 0 10px;" />
-  </a>
-
-  <a href="https://www.codechef.com/users/om_pandey_123" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="30" width="30" alt="CodeChef" style="margin: 0 10px; background-color: white; border-radius: 6px;"/>
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/user/ompandeyv9aa/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" width="30" alt="GFG" style="margin: 0 10px;" />
-  </a>
-
-  <a href="https://leetcode.com/u/ompandey_2008/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" />
-  </a>
-
-  <a href="mailto:ompandey628782@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="30" width="30" alt="Gmail" style="margin: 0 10px;" />
-  </a>
-
-  <br><br>
-
-  <h3>Languages and Tools:</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="background-color:black; padding:5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="background-color:black; padding:5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="background-color:black; padding:5px;" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="background-color:black; padding:5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="background-color:black; padding:5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="background-color:black; padding:5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="background-color:black; padding:5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="background-color:black; padding:5px;" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" style="background-color:black; padding:5px;" />
-  </p>
-
-  <hr style="border-color: #333;">
-
-  <h3>GitHub Stats</h3>
-  
-  <!-- WORKING GitHub Streak Stats -->
-
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=student-ompandey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=student-ompandey&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
-  <br><br>
-
-  <img 
- src="https://git-hub-streak-stats.vercel.app/?user=student-ompandey&theme=tokyonight&hide_border=true" alt="GitHub Streak"
-  style="max-width: 420px; width: 100%; border-radius: 10px; box-shadow: 0 0 10px #00ffff;" 
-/>
-  
-  <!-- Activity Graph -->
-  <h2>📈 Coding Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=student-ompandey&theme=github-dark&hide_border=true&area=true&height=300" alt="Activity Graph" style="width: 100%; max-width: 800px;"/>
+[![GitHub followers](https://img.shields.io/github/followers/student-ompandey?style=social&label=Follow&maxAge=2592000)](https://github.com/student-ompandey?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=student-ompandey&label=Profile%20views&color=00ffff&style=flat)](https://github.com/student-ompandey)
 
 </div>
+
+---
+
+## 💡 About Me
+
+Hello! I'm Om, a passionate and dedicated **Full Stack MERN Developer** and problem-solving enthusiast from India. I specialize in crafting robust, scalable, and dynamic web applications from front-to-back.
+
+* **Focus:** Building high-performance Single Page Applications (SPAs) with the **MERN** stack.
+* **Expertise:** Data Structures & Algorithms (DSA), clean architecture, and responsive design.
+* **Goal:** To transform complex challenges into efficient, user-friendly code.
+
+> **"The code you write today is the legacy you leave tomorrow."**
+
+---
+
+## 🛠️ Core Tech Stack & Expertise
+
+This section emphasizes your MERN expertise using a clear table layout.
+
+| Category | Icon Showcase |
+| :--- | :--- |
+| **MERN Stack** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> |
+| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> |
+| **Styling** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> |
+| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> |
+| **Databases/Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> |
+
+---
+
+## 🏆 Competitive Programming Profiles
+
+| Platform | Profile Link |
+| :--- | :--- |
+| **LeetCode** | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ompandey_2008/) |
+| **GeeksforGeeks** | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-247029?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ompandeyv9aa/) |
+| **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/om_pandey_123) |
+
+---
+
+## 📈 GitHub Stats & Activity (Optimized for Rendering)
+
+This section uses the cache-busting parameter and `img` tags for maximum reliability.
+
+<div align="center">
+
+| Core Stats | Top Languages |
+| :---: | :---: |
+| [![Om Pandey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=student-ompandey&show_icons=true&locale=en&theme=tokyonight&line_height=25&card_width=420&cache_bust=20251126)](https://github.com/student-ompandey) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=student-ompandey&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=420&cache_bust=20251126)](https://github.com/student-ompandey) |
+
+<br>
+
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.vercel.app/?user=student-ompandey&theme=tokyonight&hide_border=true&card_width=420&cache_bust=20251126" alt="GitHub Streak"/>
+
+<br>
+
+### 🗓️ 2024 Coding Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=student-ompandey&theme=github-dark&hide_border=true&area=true&height=300" alt="Activity Graph" style="width: 100%; max-width: 800px;"/>
+
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+Let's collaborate on exciting projects! Reach out if you have any opportunities or ideas.
+
+<p align="center">
+    <a href="www.linkedin.com/in/om-pandey-041717310" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:ompandey628782@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+</p>
+
+***
+
+<p align="center">
+    **Thanks for visiting my profile! Happy Coding!**
+</p>
