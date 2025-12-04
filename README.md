@@ -97,6 +97,19 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=student-ompandey&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
+### 🎖️ GitHub Badges Earned
+
+[![Pull Shark](https://img.shields.io/badge/🦈-Pull%20Shark-0969DA?style=for-the-badge&labelColor=0D1117)](https://github.com/student-ompandey)
+[![YOLO](https://img.shields.io/badge/⚡-YOLO-FFD700?style=for-the-badge&labelColor=0D1117)](https://github.com/student-ompandey)
+[![Quickdraw](https://img.shields.io/badge/🎯-Quickdraw-FF6B6B?style=for-the-badge&labelColor=0D1117)](https://github.com/student-ompandey)
+[![Pair Extraordinaire](https://img.shields.io/badge/👥-Pair%20Extraordinaire-9B59B6?style=for-the-badge&labelColor=0D1117)](https://github.com/student-ompandey)
+
+**Badge Achievements:**  
+🦈 **Pull Shark** - Merged pull requests that have been accepted  
+⚡ **YOLO** - Merged a pull request without code review  
+🎯 **Quickdraw** - Closed an issue or pull request within 5 minutes of opening  
+👥 **Pair Extraordinaire** - Coauthored commits on merged pull requests
+
 ### 🎯 Coding Milestones
 
 🏆 **160+ Problems Solved** on LeetCode across Easy, Medium & Hard difficulties  
