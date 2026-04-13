@@ -10,17 +10,17 @@
 <table border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td align="center" valign="top" width="34%">
-      <img src="./assets/institute_topper.jpeg" width="270px" style="border-radius:16px;" alt="Institute Topper — Placement Day 2026"/>
+      <img src="./asset/institute_topper.jpeg" width="270px" style="border-radius:16px;" alt="Institute Topper — Placement Day 2026"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/🏅_INSTITUTE_TOPPER-Placement_Day_2026-FFD700?style=for-the-badge&labelColor=0D1117"/>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="./assets/codolio_stats.png" width="330px" style="border-radius:12px;" alt="Codolio Coding Stats"/>
+      <img src="./asset/codolio_stats.png" width="330px" style="border-radius:12px;" alt="Codolio Coding Stats"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/📊_1207_Questions-305_Active_Days-00D9FF?style=flat-square&labelColor=0D1117"/>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="./assets/leetcode_stats.png" width="330px" style="border-radius:12px;" alt="LeetCode Stats"/>
+      <img src="./asset/leetcode_stats.png" width="330px" style="border-radius:12px;" alt="LeetCode Stats"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/💻_206+_Solved-Top_38.67%25_Globally-FF8C00?style=flat-square&labelColor=0D1117"/>
     </td>
