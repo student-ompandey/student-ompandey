@@ -85,14 +85,13 @@ I'm a passionate **Full Stack MERN Developer** and **Institute Topper** from **I
 | 🔵 **HackerRank** | ⭐⭐⭐⭐ **4-Star Coder** |
 | 📊 **Overall** | **1,000+ DSA Problems** Solved Across Platforms · **305 Active Coding Days** |
 
-</details>
-
 <details open>
 <summary><b>🚀 Hackathons & Events</b></summary>
 <br/>
 
 | Event | Role | Outcome |
 |---|---|---|
+| **Hack Days in Bhopal 2.0 (MLH)** | 🏆 Winner | **1st Place** · Powered by Google Gemini · Built AI-powered project (SecondBrain) |
 | **Technocrats Innovation Challenge 2K26** | 🎯 Organizer & Lead | National-Level Hackathon · **Top 50 Teams Pan-India** participated |
 | **Multiple Hackathons** | Participant / Finalist | **2× Hackathon Finalist** · Strong real-world project experience |
 | **Web3 & Blockchain Hackathons** | Explorer | Actively building in decentralized tech and innovation |
