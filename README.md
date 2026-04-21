@@ -157,6 +157,8 @@ I'm a passionate **Full Stack MERN Developer** and **Institute Topper** from **I
 </div>
 
 ---
+<div align="center">
+  
 
 ## 🚀 Current Focus
 
@@ -169,6 +171,7 @@ I'm a passionate **Full Stack MERN Developer** and **Institute Topper** from **I
 | 📚 **Teaching & Mentoring** | Building the next generation of developers |
 
 ---
+</div>
 
 <div align="center">
 
